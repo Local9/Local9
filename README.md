@@ -1,4 +1,5 @@
-### Hi there 👋
+|![Local9's github stats](https://github-readme-stats.vercel.app/api?username=Local9&count_private=true&show_icons=true&theme=dracula&disable_animations=true&include_all_commits=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Local9&theme=dracula&langs_count=10&layout=compact)|
+|:-:|:-:|
 
 <!--
 **Local9/Local9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

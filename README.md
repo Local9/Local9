@@ -3,6 +3,8 @@ I just like code...
 ### 💻 Languages I have used
 ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
 ![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 ![ActionScript](https://img.shields.io/badge/-ActionScript-333333?style=flat&logo=adobe)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)

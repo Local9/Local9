@@ -3,7 +3,7 @@ I just like code...
 ![Profile views](https://gpvc.arturio.dev/local9)
 
 ### 🤝 Actively contributing and supporting
-![ScaleformUI](https://github.com/manups4e/ScaleformUI)
+![ScaleformUI](https://github.com/manups4e/ScaleformUI) &
 ![FxEvents](https://github.com/manups4e/FxEvents)
 
 ### 💻 Currently studying

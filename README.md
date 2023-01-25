@@ -37,11 +37,13 @@ I just like code...
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat)
 
 ### 💻 Applications or Systems I've used
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
 ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat)
 ![Adobe Creative Cloud Badge](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe Lightroom Badge](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?logo=adobelightroom&logoColor=fff&style=flat)
+![Adobe Lightroom Classic Badge](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF?logo=adobelightroomclassic&logoColor=fff&style=flat)
 ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat)
 ![Davinci Resolve](https://img.shields.io/badge/-Davinci%20Resolve-333333?style=flat&logo=davinciresolve)
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
@@ -58,5 +60,10 @@ I just like code...
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
 ![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=fff&style=flat)
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
+![Salt Project Badge](https://img.shields.io/badge/Salt%20Project-57BCAD?logo=saltproject&logoColor=fff&style=flat)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+![Puppet Badge](https://img.shields.io/badge/Puppet-FFAE1A?logo=puppet&logoColor=fff&style=flat)
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
+![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=flat)
 
 ![Metrics](https://metrics.lecoq.io/Local9?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon)

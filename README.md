@@ -7,8 +7,9 @@ I just like code...
 ![FxEvents](https://github.com/manups4e/FxEvents)
 
 ### 💻 Currently Studying
-Actively ![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat)
- | When the need arises
+Actively : ![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat)
+
+When the need arises : 
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 

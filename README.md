@@ -7,7 +7,7 @@ I just like code...
 
 ### 🤝 Actively Contributing and Supporting
 ![ScaleformUI](https://github.com/manups4e/ScaleformUI) &
-![FxEvents](https://github.com/manups4e/FxEvents)
+![FxEvents](https://github.com/manups4e/FxEvents) @ [FiveM C# Scripters](https://discord.gg/FUU2NWK4)
 
 ### 💻 Currently Studying
 Actively : ![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat)

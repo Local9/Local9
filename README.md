@@ -1,7 +1,5 @@
 I just like code...
 
-![Profile views](https://gpvc.arturio.dev/local9)
-
 ### 🤝 Actively Contributing and Supporting
 ![ScaleformUI](https://github.com/manups4e/ScaleformUI) &
 ![FxEvents](https://github.com/manups4e/FxEvents) @ [FiveM C# Scripters](https://discord.gg/FUU2NWK4)

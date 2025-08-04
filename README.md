@@ -1,15 +1,11 @@
 I just like code...
 
-### 🤝 Actively Contributing and Supporting
-![ScaleformUI](https://github.com/manups4e/ScaleformUI) &
-![FxEvents](https://github.com/manups4e/FxEvents) @ [FiveM C# Scripters](https://discord.gg/KKN7kRT2vM)
-
 ### 💻 Currently Studying
 Actively : ![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat)
 
-When the need arises : 
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+### 🤝 Supporting
+![ScaleformUI](https://github.com/manups4e/ScaleformUI) &
+![FxEvents](https://github.com/manups4e/FxEvents) @ [FiveM C# Scripters](https://discord.gg/KKN7kRT2vM)
 
 ### 💻 Languages & Frameworks I have used
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
@@ -30,6 +26,8 @@ When the need arises :
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Font Awesome Badge](https://img.shields.io/badge/Font%20Awesome-528DD7?logo=fontawesome&logoColor=fff&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 
 ### 💻 OS Systems worked with
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
